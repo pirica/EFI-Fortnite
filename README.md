@@ -1,2 +1,1 @@
-# EFI-Fortnite
-A fortnite external that load'
+**A Fortntite External that loads in EFI, Credits to chase/sleek for leaking this in the first place, Ritz is taking credits for updating this which is nothing to be proud about because It just ruins this community even more but have at it.**
